@@ -18,7 +18,7 @@ spring:
   user:
    name: user
    password: user
-   
+
 # 포트 설정
 server: 
   port: 8080
